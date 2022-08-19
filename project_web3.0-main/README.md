@@ -1,4 +1,4 @@
-# Krypt - Web 3.0 Blockchain Application
+# SKrypt - Web 3.0 Blockchain Application
 ![Krypt](https://i.ibb.co/DVF4tNW/image.png)
 
 ## Introduction
@@ -11,4 +11,4 @@ Portfolio - https://www.enyelsequeira.com
 E-mail - enyelsequeira1994@gmail.com
 Want me to cover the project you've created? Send me an e-mail 👌
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+## LIVE WEBSITE - https://www.skrypty.netlify.com
